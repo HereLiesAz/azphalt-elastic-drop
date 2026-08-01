@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Words fall in from well above the frame, tilted, and snap upright on a spring as they land.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
